@@ -59,3 +59,14 @@ docker 环境见 [github](https://github.com/Yansongsongsong/CSAPP-Experiments/t
 
 ![1_4ipwUzIWd4eqUvcEmZ5tMQ](https://article.biliimg.com/bfs/article/167c03900b7d1d7b5768567d4cf9e9c2b30fcba7.png)
 
+
+
+### attacklab
+
+> 没做最后一个
+
+参考 [blob1](https://earthaa.github.io/2020/02/11/CSAPP-Attacklab/) [blob2](https://zhuanlan.zhihu.com/p/60724948)
+
+- 了解基本的程序攻击/防护方式；
+- 了解 stack frame 大致组成；
+
