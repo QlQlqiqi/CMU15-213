@@ -70,3 +70,16 @@ docker 环境见 [github](https://github.com/Yansongsongsong/CSAPP-Experiments/t
 - 了解基本的程序攻击/防护方式；
 - 了解 stack frame 大致组成；
 
+
+
+### shell lab
+
+这个其实难度不大，只是如果不清楚一些函数的用法会比较难。
+
+这里我参考了这两篇 blog：[blog1](https://zhuanlan.zhihu.com/p/492645370)、[blog2](https://zhuanlan.zhihu.com/p/439726829)
+
+
+
+handler 访问全局共享变量时，main 和 handler 都需要阻塞所有信号，以便函数不会访问到不一致的全局共享变量。
+
+![image-20230824154250979](https://article.biliimg.com/bfs/article/0760ed49475eba1cdd0c872fca3024815484ddd9.png)
